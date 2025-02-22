@@ -1,0 +1,1 @@
+# dash-componet.modelo
